@@ -1,0 +1,5 @@
+com\example\clouddrive\ClouddriveApplication.class
+com\example\clouddrive\SecurityConfig.class
+com\example\clouddrive\controller\FileController.class
+com\example\clouddrive\repository\UserRepository.class
+com\example\clouddrive\model\User.class
